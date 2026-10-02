@@ -1,0 +1,41 @@
+.:
+total 0
+drwxrwxr-x 5 ubuntu ubuntu 120 Oct  1 15:49 .
+drwxrwxr-x 3 ubuntu ubuntu  60 Oct  1 15:26 ..
+drwxrwxr-x 2 ubuntu ubuntu  40 Oct  1 15:29 archives
+drwxrwxr-x 3 ubuntu ubuntu  60 Oct  1 15:30 projects
+drwxrwxr-x 2 ubuntu ubuntu  40 Oct  1 15:29 tools
+-rw-rw-r-- 1 ubuntu ubuntu   0 Oct  1 15:49 tree_structure.txt
+
+./archives:
+total 0
+drwxrwxr-x 2 ubuntu ubuntu  40 Oct  1 15:29 .
+drwxrwxr-x 5 ubuntu ubuntu 120 Oct  1 15:49 ..
+
+./projects:
+total 0
+drwxrwxr-x 3 ubuntu ubuntu  60 Oct  1 15:30 .
+drwxrwxr-x 5 ubuntu ubuntu 120 Oct  1 15:49 ..
+drwxrwxr-x 4 ubuntu ubuntu  80 Oct  1 15:30 web
+
+./projects/web:
+total 0
+drwxrwxr-x 4 ubuntu ubuntu 80 Oct  1 15:30 .
+drwxrwxr-x 3 ubuntu ubuntu 60 Oct  1 15:30 ..
+drwxrwxr-x 2 ubuntu ubuntu 40 Oct  1 15:30 backend
+drwxrwxr-x 2 ubuntu ubuntu 40 Oct  1 15:30 frontend
+
+./projects/web/backend:
+total 0
+drwxrwxr-x 2 ubuntu ubuntu 40 Oct  1 15:30 .
+drwxrwxr-x 4 ubuntu ubuntu 80 Oct  1 15:30 ..
+
+./projects/web/frontend:
+total 0
+drwxrwxr-x 2 ubuntu ubuntu 40 Oct  1 15:30 .
+drwxrwxr-x 4 ubuntu ubuntu 80 Oct  1 15:30 ..
+
+./tools:
+total 0
+drwxrwxr-x 2 ubuntu ubuntu  40 Oct  1 15:29 .
+drwxrwxr-x 5 ubuntu ubuntu 120 Oct  1 15:49 ..
